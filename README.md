@@ -14,3 +14,4 @@ I used to fear front-end development but now over half my commit history has to 
 ## 🧠 **Brain-Computer Interfaces** 
 This was my labor of love in college. I was the co-head of the Neurotech@Davis projects division for 2 years. I will always look fondly on my days developing brain computer interfaces in the future and I hope to one day go back to them in the industry.
 - [Neuro-Prosthetic EEG Controlled Robotic Arm:](https://github.com/Neurotech-Davis/RoboticArm) I think this is the coolest thing I've ever made. This project used the mental imagery of a real person to move a prosthetic arm.
+- [Chrome No Internet Game Using EEG](https://github.com/Neurotech-Davis/Neurofest-Project-2023) This was one of my first BCI projects. It used EEG signals to control the dinosaur in the famous chrome no-internet game.
