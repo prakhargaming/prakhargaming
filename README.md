@@ -8,7 +8,7 @@ I really like messing around with AI Models! I have a lot of experience here. My
 - [XAI ResNet-50 Data Visualization Web Development Project:](https://github.com/prakhargaming/Data-Visualization-Web-Dev-Project) My task with this project was to visualize the second to last layer of the ResNet-50 machine-learning model to help us better understand why the model came to the designs it did.
 
 ## 🕸 **Front End** 
-I used to fear front-end development but now over half my commit history has to do with TypeScript 😨. I've grown to like it quite a bit! These days I'm usually working with NextJS, TypeScript and Taiilwind.
+I used to fear front-end development but now over half my commit history has to do with TypeScript 😨. I've grown to like it quite a bit! These days I'm usually working with NextJS, TypeScript and Tailwind.
 - [Scripta Welcome Page:](https://github.com/prakhargaming/scripta-welcome-interface) This is what I'm currently working on as well! I think it showcases my front-end skills the best. This web app prompts the user to record audio, works with AWS and DigitalOcean to send data to a database and contains some of my most sophisticated front-end code to date.
   
 ## 🧠 **Brain-Computer Interfaces** 
