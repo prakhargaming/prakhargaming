@@ -9,7 +9,8 @@ I really like messing around with AI Models! I have a lot of experience here. My
 
 ## 🕸 **Front End** 
 I used to fear front-end development but now over half my commit history has to do with TypeScript 😨. I've grown to like it quite a bit! These days I'm usually working with NextJS, TypeScript and Tailwind.
-- [Scripta Welcome Page:](https://github.com/prakhargaming/scripta-welcome-interface) This is what I'm currently working on as well! I think it showcases my front-end skills the best. This web app prompts the user to record audio, works with AWS and DigitalOcean to send data to a database and contains some of my most sophisticated front-end code to date.
+- [Scripta Welcome Page:](https://github.com/prakhargaming/scripta-welcome-interface) This is what I'm currently working on as well! This is being developed for the company I intern at, VDart. I think it showcases my front-end skills the best. This web app prompts the user to record audio, works with AWS and DigitalOcean to send and receive data, uses Firebase for authentication and contains some of my most sophisticated front-end code to date.
+- [Scripta Dashboard:](https://github.com/prakhargaming/scripta-dashboard) This repo follows the same story as the previous one. Cool things about this web app is that it uses TailwindUI for stylization (so it looks really nice), Firebase for authentication and dynamically renders tables with data from DigitalOcean.
   
 ## 🧠 **Brain-Computer Interfaces** 
 This was my labor of love in college. I was the co-head of the Neurotech@Davis projects division for 2 years. I will always look fondly on my days developing brain computer interfaces in the future and I hope to one day go back to them in the industry.
