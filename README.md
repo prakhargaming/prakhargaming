@@ -1,6 +1,6 @@
 ## Hi Everyone 🙋‍♂️
 
-My name is Prakhar Sinha. I am an aspiring software developer! I recently graduated from UC Davis and am looking to break into the software industry. A little bit about myself is that I love nature, traveling and going on hikes! However, when I'm inside, you can find me either reading a book, playing a video game or drawing. When it comes to CS, I have three key areas of focus.
+My name is Prakhar Sinha. I am an aspiring software developer! I recently graduated from UC Davis and I'm working as an AI/ML engineer at HuLoop Automation. A little bit about myself is that I love nature, traveling and going on hikes! However, when I'm inside, you can find me either reading a book, playing a video game or drawing. When it comes to CS, I have three key areas of focus.
 
 ## 🤖 **AI/Computer Vision** 
 I really like messing around with AI Models! I have a lot of experience here. My main area of interest in the field is **eXplainable AI (XAI)** and **Computer Vision**. Refer to these projects if you'd like to see what I've done in these areas!
