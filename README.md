@@ -22,7 +22,9 @@ There are all of my projects in AI/ML. A huge interest of mine right now is AI I
 
 ## 🕸 **Full-Stack Web Development** 
 I used to fear front-end development but now over half my commit history has to do with TypeScript 😨. I've grown to like it quite a bit! These days I'm usually working with NextJS, TypeScript and Tailwind.
-- [_prakhargaming.com_](https://github.com/prakhargaming/prakhar-website) prakhargaming.com is my fully responsive and modern personal website that also serves as my portfolio. It started off as a dumb exercise in front-end development but it has evolved into a space that I use to test out and demonstrate my skills as a developer. It has a ton of moving parts:
+- [_prakhargaming.com_](https://github.com/prakhargaming/prakhar-website)
+
+  prakhargaming.com is my fully responsive and modern personal website that also serves as my portfolio. It started off as a dumb exercise in front-end development but it has evolved into a space that I use to test out and demonstrate my skills as a developer. It has a ton of moving parts:
   - MongoDB Atlas Database
   - Authentication with Clerk
   - Twilio Send-Grid for Automated Emails
