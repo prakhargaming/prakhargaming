@@ -72,7 +72,7 @@ prakhargaming.com is my fully responsive and modern personal website that also s
 
 ## 🧠 Brain-Computer Interfaces
 
-> Former Co-Head of Projects @ Neurotech@Davis
+> Former Co-Head of Projects at _Neurotech@Davis_
 
 ### 🦾 Featured Projects
 
