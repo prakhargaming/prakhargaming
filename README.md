@@ -1,13 +1,13 @@
-# AI/ML Engineer @ HuLoop Automation | UC Davis CS Grad | Professionally known online as `prakhargaming` for some reason
+# SWE @ ngrok | UC Davis CS Grad | Professionally known online as `prakhargaming` for some reason
 
 ### About Me
-My name is Prakhar Sinha. I recently graduated from UC Davis and I'm working as an AI/ML engineer at HuLoop Automation. A little bit about myself is that I love nature, traveling and going on hikes! However, when I'm inside, you can find me either reading a book, playing a video game or drawing. When it comes to CS, I have three key areas of focus.
+My name is Prakhar Sinha. I recently graduated from UC Davis and I'm a software engineer at ngrok, focusing on AI Gateway and agent aware networking. A little bit about myself is that I love nature, traveling and going on hikes! However, when I'm inside, you can find me either reading a book, playing a video game or drawing. When it comes to CS, I have three key areas of focus.
 
 ---
 
 ## 🤖 AI/ML Engineering
 
-> Current AI/ML Engineer specializing in **AI Infrastructure** • **Computer Vision** • **LLMs** • **Voice AI** • **XAI** at _HuLoop Automation_
+> Current SWE at _ngrok_ specializing in **AI Infrastructure** • **Networking Infrastructure** • **Computer Vision** • **LLMs** • **Voice AI** • **XAI**
 
 <table>
 <tr>
